@@ -1,3 +1,6 @@
 Primer commit 
 	esta es una modificacion al archivo primerCommit
 		esta es una segunda modificacion al archivo primerCommit
+
+primera rama 1
+esto es una primera insercion de texto en la nueva rama
